@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.skydoves:sandwich:1.0.9@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/989120fca5e6728f7b689c1965a98f76/transformed/jetified-sandwich-1.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e11a86ce8ecb435de2783b59737ed15b/transformed/jetified-sandwich-1.0.9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e11a86ce8ecb435de2783b59737ed15b/transformed/jetified-sandwich-1.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e11a86ce8ecb435de2783b59737ed15b/transformed/jetified-sandwich-1.0.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/sandwich/1.0.9/b5c2d32bb02846c3f87ca9186e689d4167c4b440/sandwich-1.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/sandwich/1.0.9/ae6518b8c4c6b0c148c7f9959efa473709782d65/sandwich-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/layout_item_popular_movie.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/layout/item_popular_movie.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/layout_main_fragment.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/layout/main_fragment.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_favorite_empty.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_favorite_empty.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_favorite_empty.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_favorite_empty.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_favorite_empty.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_favorite_empty.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/anim_fadein.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_favorite_full.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-mdpi/ic_favorite_full.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_favorite_full.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_favorite_full.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_favorite_full.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-ldpi/ic_favorite_full.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_stars.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-hdpi/ic_stars.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_favorite_full.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_favorite_full.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_favorite_empty.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-mdpi/ic_favorite_empty.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/layout_fragment_popular.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/layout/fragment_popular.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/layout_dialog_detail_movie.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/layout/dialog_detail_movie.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_favorite_empty.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-ldpi/ic_favorite_empty.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_stars.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_stars.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_stars.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_stars.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable_ic_close_fullscreen.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/drawable/ic_close_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_favorite_full.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-hdpi/ic_favorite_full.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_favorite_full.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_favorite_full.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/layout_fragment_favorite.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/layout_main_activity.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/anim_fadeout.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/layout_activity_detail_movie.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/layout/activity_detail_movie.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable_ic_logo_principal.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/drawable/ic_logo_principal.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_stars.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_stars.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_stars.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_stars.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_stars.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-ldpi/ic_stars.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable_ic_movie_placeholder.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/drawable/ic_movie_placeholder.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_favorite_full.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_favorite_full.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_stars.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-mdpi/ic_stars.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_favorite_empty.png.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-hdpi/ic_favorite_empty.png"
+    },
+    {
+        "merged": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_favorite_empty.xml.flat",
+        "source": "/Users/MichelHuerta/AndroidStudioProjects/PruebaJobRappi/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_favorite_empty.xml"
+    }
+]

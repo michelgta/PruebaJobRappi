@@ -1,0 +1,45 @@
+mx/com/pruebajobrappi/DataBinderMapperImpl.java
+ mx.com.pruebajobrappi.DataBinderMapperImpl
+ mx.com.pruebajobrappi.DataBinderMapperImpl$InnerBrLookup
+ mx.com.pruebajobrappi.DataBinderMapperImpl$InnerLayoutIdLookup
+mx/com/pruebajobrappi/databinding/FragmentPopularBinding.java
+ mx.com.pruebajobrappi.databinding.FragmentPopularBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+mx/com/pruebajobrappi/databinding/FragmentFavoriteBinding.java
+ mx.com.pruebajobrappi.databinding.FragmentFavoriteBinding
+mx/com/pruebajobrappi/BuildConfig.java
+ mx.com.pruebajobrappi.BuildConfig
+mx/com/pruebajobrappi/BR.java
+ mx.com.pruebajobrappi.BR
+mx/com/pruebajobrappi/databinding/DialogDetailMovieBinding.java
+ mx.com.pruebajobrappi.databinding.DialogDetailMovieBinding
+mx/com/pruebajobrappi/data/local/MoviesDataBase_Impl.java
+ mx.com.pruebajobrappi.data.local.MoviesDataBase_Impl
+ mx.com.pruebajobrappi.data.local.MoviesDataBase_Impl$1
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+mx/com/pruebajobrappi/databinding/MainActivityBinding.java
+ mx.com.pruebajobrappi.databinding.MainActivityBinding
+mx/com/pruebajobrappi/data/local/MoviesDao_Impl.java
+ mx.com.pruebajobrappi.data.local.MoviesDao_Impl
+ mx.com.pruebajobrappi.data.local.MoviesDao_Impl$1
+ mx.com.pruebajobrappi.data.local.MoviesDao_Impl$2
+ mx.com.pruebajobrappi.data.local.MoviesDao_Impl$3
+ mx.com.pruebajobrappi.data.local.MoviesDao_Impl$4
+ mx.com.pruebajobrappi.data.local.MoviesDao_Impl$5
+ mx.com.pruebajobrappi.data.local.MoviesDao_Impl$6
+mx/com/pruebajobrappi/databinding/MainFragmentBinding.java
+ mx.com.pruebajobrappi.databinding.MainFragmentBinding
+mx/com/pruebajobrappi/DataBindingTriggerClass.java
+ mx.com.pruebajobrappi.DataBindingTriggerClass
+mx/com/pruebajobrappi/databinding/ItemPopularMovieBinding.java
+ mx.com.pruebajobrappi.databinding.ItemPopularMovieBinding
+mx/com/pruebajobrappi/databinding/ActivityDetailMovieBinding.java
+ mx.com.pruebajobrappi.databinding.ActivityDetailMovieBinding
+mx/com/pruebajobrappi/databinding/ItemPopularMovieBindingImpl.java
+ mx.com.pruebajobrappi.databinding.ItemPopularMovieBindingImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+mx/com/pruebajobrappi/databinding/ActivitySplashBinding.java
+ mx.com.pruebajobrappi.databinding.ActivitySplashBinding
