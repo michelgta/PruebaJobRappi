@@ -7,7 +7,7 @@ Es una aplicación que muestra las peliculas más populares del momento y su cal
 Puede clonar el siguiente repositorio
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/michelgta/PruebaJobRappi.git
 ```
 
 
@@ -21,6 +21,14 @@ A continuacion los detalles faltantes del proyecto
    empatada con la lista que se tiene en el adaptador, obteniendo solo los items más parecidos con la cadena que proporciono el usuario
    - Cuando el usuario borre las letras del mismo modo debe de dar una coincidencia con dicha lista
    - Puede hacerse con un "contains"
+
+
+2. **Pruebas unitarias**
+   - Agregar clases de prueba para probar los viewModel correspondientes y los casos de uso declarados
+   - Usar mockito para simular el comportamiento de una clase dinamica en cada uno de los casos de uso
+   - En caso de que la prueba unitaria se complique mucho, recodificar para hacerla mas sencilla
+
+
 
 ## Constrido con
 
