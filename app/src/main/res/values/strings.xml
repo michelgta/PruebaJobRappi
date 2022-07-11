@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PruebaJobRappi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="text_popular_movies">Peliculas Populares</string>
+    <string name="text_favorites_movies">Favoritas</string>
+    <string name="message_max_pages_reached">¡El número maximo de paginas se alcanzo!</string>
+    <string name="message_error_fetching">Ocurrio un error para actualizar las peliculas</string>
+    <string name="error_verify_network_connection">Ha ocurrido un error de conexión a internet, por favor revisa tu conexión.</string>
+    <string name="error_youtube_network_connection">Ha ocurrido un error de conexión a internet, no se puede reproducir el video.</string>
+    <string name="message_success_add_favorites">Agregado a favoritos correctamente</string>
+    <string name="message_success_remove_favorites">Borrado de favoritos correctamente</string>
+    <string name="text_empty_favorites">La lista de favoritos esta vacia</string>
+    <string name="text_placeholder_votes">%1$s (%2$s votes)</string>
+    <string name="error_no_trailers">No hay trailers para mostrar.</string>
+
+
+</resources>
